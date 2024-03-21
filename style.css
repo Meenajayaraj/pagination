@@ -1,13 +1,15 @@
 * {
     margin: 0;
-    text-align: left;
-}
+    padding: 0;
+    box-sizing: border-box;
+    }
 
 h1 {
-    align-content: center;
     background-color: #7acfd8;
-    padding-left: 50px;
-}
+        padding: 10px;
+        color: #fff;
+        text-align: center;
+    }
 
 label {
     display: inline;
