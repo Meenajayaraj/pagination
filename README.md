@@ -3,7 +3,7 @@
 *** by using HTML , CSS and DOM ***
 
 click the below deployed URL for 
-[NETLIFY]:(https://task-9pagination.netlify.app/)
+NETLIFY[https://task-9pagination.netlify.app/]
 
 Output :
 
