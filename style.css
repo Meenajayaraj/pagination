@@ -5,8 +5,9 @@
 }
 
 h1 {
-    background-color: #7acfd8;
-    padding-left: 10px;
+    background-color: lightslategrey;
+    padding-left: 80px;
+    font-size: xx-large;
     color: #fff;
     text-align: center;
 }
@@ -16,7 +17,9 @@ label {
 }
 
 p {
-    margin: 5px;
+    align-content: center;
+    margin: 10px;
+    font-size: medium;
     padding: 0;
     display: inline;
 }
@@ -27,7 +30,7 @@ p {
 
 button {
 
-    background-color: #00aeff;
+    background-color: grey;
     border: 1 px solid black;
     color: rgb(245, 0, 0);
     text-align: center;
@@ -50,16 +53,17 @@ button:hover {
 }
 
 .btn {
-    background-color: #00e1ff;
+    background-color: lightslategray;
 }
 
 button {
     margin-top: 5px;
-    color: #00aeff;
+    color: lightslategray;
 }
 
 .abc {
     color: black;
+    font-size: xx-large;
 }
 
 #para {
@@ -76,7 +80,7 @@ button {
 }
 
 .table-responsive {
-    background-color: #00e1ff;
+    background-color: lightslategray;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -84,4 +88,26 @@ button {
 
 .table {
     width: 100%;
+}
+
+.firstBtn {
+    color: black;
+    border-radius: 5px;
+}
+
+.prevBtn {
+    color: black;
+    border-radius: 5px;
+}
+
+.nextBtn {
+    color: black;
+    border-radius: 5px;
+
+}
+
+.lastBtn {
+    color: black;
+    border-radius: 5px;
+
 }
