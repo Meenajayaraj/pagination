@@ -1,6 +1,6 @@
 # task-9 Pagination
 
-*** by using HTML , CSS and DOM ***
+*** by using `HTML`, `CSS` and `DOM` ***
 
 click the below deployed URL for 
 [NETLIFY](https://task-9pagination.netlify.app/)
