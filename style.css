@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    text-align: left;
+}
+
+h1 {
+    align-content: center;
+    background-color: #7acfd8;
+    padding-left: 50px;
+}
+
+label {
+    display: inline;
+}
+
+p {
+    margin: 5px;
+    padding: 0;
+    display: inline;
+}
+.changes{
+    margin-left: 10px;
+}
+
+button {
+
+    background-color: #00aeff;
+    border: 1 px solid black;
+    color: rgb(245, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+    transition-duration: 0.5s;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: red;
+    color: black;
+}
+.btn:hover{
+    background-color: red;
+}
+
+.btn {
+    background-color: #00e1ff;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.abc {
+    color: black;
+}
+
+#para {
+    margin-left: 75px;
+}
+
+#name {
+    margin-left: 57px;
+}
+
+
+#email {
+    margin-left: 50px;
+}
+
+.table-responsive{
+    background-color: #00e1ff;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.table{
+    width: 100%;
+}
